@@ -20,3 +20,9 @@ Database: SQLite
 
 ## Reviews
 ![Reviews](https://github.com/DonnnChaewon/Jaya-Thai-Tea/blob/main/documentation/4.png)
+
+# How to run
+`npm install
+composer install
+php artisan key:generate
+php artisan serve`
