@@ -22,7 +22,7 @@ Database: SQLite
 ![Reviews](https://github.com/DonnnChaewon/Jaya-Thai-Tea/blob/main/documentation/4.png)
 
 # How to run
-`npm install<br>
-composer install<br>
-php artisan key:generate<br>
+`npm install\n
+composer install\n
+php artisan key:generate\n
 php artisan serve`
