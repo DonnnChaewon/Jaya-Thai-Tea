@@ -5,7 +5,7 @@ Jaya Thai Tea is a guilt-free, modern take on traditional Thai tea, crafted to c
 ![ERD](https://github.com/DonnnChaewon/Jaya-Thai-Tea/blob/main/documentation/5.png)
 
 # Tech Stack
-Full Stack: Laravel
+Full Stack: Laravel<br>
 Database: SQLite
 
 # Documentation
